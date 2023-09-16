@@ -1,4 +1,5 @@
 import requests
+import json
 
 base_url = "https://www.reuters.com/markets/quote/USDEUR=X/"
 
